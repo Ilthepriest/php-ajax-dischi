@@ -88,7 +88,7 @@ $dischi= [
 <body>
     <div class="container-fluid">
         <div class="row nav d-flex justify-content-between align-items-center">
-            <img src="../img./logo-small.svg" alt="">
+            <img src="./img./logo-small.svg" alt="">
         </div>
         <div class="container">
             <div class="row row-cols-md-2 row-cols-xl-5 pt-5">
