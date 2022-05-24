@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid .nav{
+    background-color: #2E3A46;
+    height: 100px;
+}
+
+.row img{
+    width: 70px;
+    margin-left: 20px;
+}
+
+.container-fluid {
+    height: 100vh;
+    overflow-y: auto;
+    background-color: #1E2D3B;
+}
+
+p{
+    color: #767770;
+}
+
+.bg_card{
+    background-color: #2E3A46 !important;
+}
+ 
+h5{
+    color: white;
+}
+
+.img_disco img{
+    width: 200px;
+    aspect-ratio: 1 / 1;
+  }
